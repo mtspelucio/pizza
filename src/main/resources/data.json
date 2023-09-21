@@ -1,0 +1,18 @@
+{
+  "items" : [
+    {
+      "pizzas" : [
+        {
+          "name" : "peperonni",
+          "price" : 12.50,
+          "ingredients" : [
+              "massa",
+              "peperonni",
+              "queijo"
+          ]
+        }
+      ],
+      "quantity" : 2
+    }
+  ]
+}
